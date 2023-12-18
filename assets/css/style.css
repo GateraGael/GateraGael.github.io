@@ -10,7 +10,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(12, 15, 15, 0.4); 
+  border: 6px solid rgba(0, 0, 0, 0.88); 
   border-radius: 50% !important;
 }
 
@@ -319,7 +319,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #65a0db repeat;
   position: relative;
 }
 
@@ -547,7 +547,7 @@ small {
 
 /* main .teal-text */
 
-.teal-text {
+.navy-text {
   color: #052669 !important;
 }
 
